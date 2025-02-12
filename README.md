@@ -25,7 +25,7 @@
 </body>
 </html>
 <styles.css>
-body {
+<body {
   display: flex;
   justify-content: center;
   align-items: center;
@@ -65,5 +65,5 @@ body {
   color: #333;
   margin-top: 20px;
   font-style: italic;
-}
+}>
 
